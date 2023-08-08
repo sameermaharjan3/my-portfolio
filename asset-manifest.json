@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.55e896cb.css",
-    "main.js": "/my-portfolio/static/js/main.30e344fc.js",
-    "static/media/sambg.jpg": "/my-portfolio/static/media/sambg.6d782010406b78aae81d.jpg",
+    "main.css": "/my-portfolio/static/css/main.8aa13a11.css",
+    "main.js": "/my-portfolio/static/js/main.20fffe56.js",
     "static/media/ascii.jpg": "/my-portfolio/static/media/ascii.50764b3eeef34cd1c8c6.jpg",
     "static/media/killKorona.jpg": "/my-portfolio/static/media/killKorona.e7ecfcd9177598ee4dfe.jpg",
     "static/media/puzzle.jpg": "/my-portfolio/static/media/puzzle.95a984a1c17bec3904d6.jpg",
     "static/media/movie.jpg": "/my-portfolio/static/media/movie.ee1ff002f78ad1be7758.jpg",
+    "static/media/navyBluePoly.svg": "/my-portfolio/static/media/navyBluePoly.11b6d8bdc49fd2d81a72.svg",
     "static/media/imgGallery.jpg": "/my-portfolio/static/media/imgGallery.6458a3ff92d3a692f503.jpg",
     "static/media/jumpingRobo.jpg": "/my-portfolio/static/media/jumpingRobo.7bdbb85db9a264c37cf0.jpg",
     "static/media/sm-logo.JPG": "/my-portfolio/static/media/sm-logo.ded724685a7e3d6f972f.JPG",
@@ -24,11 +24,11 @@
     "static/media/css.png": "/my-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/my-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/my-portfolio/index.html",
-    "main.55e896cb.css.map": "/my-portfolio/static/css/main.55e896cb.css.map",
-    "main.30e344fc.js.map": "/my-portfolio/static/js/main.30e344fc.js.map"
+    "main.8aa13a11.css.map": "/my-portfolio/static/css/main.8aa13a11.css.map",
+    "main.20fffe56.js.map": "/my-portfolio/static/js/main.20fffe56.js.map"
   },
   "entrypoints": [
-    "static/css/main.55e896cb.css",
-    "static/js/main.30e344fc.js"
+    "static/css/main.8aa13a11.css",
+    "static/js/main.20fffe56.js"
   ]
 }
